@@ -1,30 +1,22 @@
-Hi 👋 My name is Ondřej Škrland =============================== Junior developer
----------------- * 🌍  I'm based in Czech republic * 🖥️  See my portfolio at
-[GitHub](http://skrland.me) * ✉️  You can contact me at
-[ondrejskrland@icloud.com](mailto:ondrejskrland@icloud.com) * 🧠  I'm learning
-React.js, JavaScript and TypeScript * 🤝  I'm open to collaborating on CIN
-(IČO), main, secondary employment ### Skills
+Hi 👋 My name is Ondřej Škrland
+===============================
+
+Junior developer
+----------------
+
+* 🌍  I'm based in Czech republic
+* 🖥️  See my portfolio at [GitHub](http://skrland.me)
+* ✉️  You can contact me at [ondrejskrland@icloud.com](mailto:ondrejskrland@icloud.com)
+* 🧠  I'm learning React.js, JavaScript and TypeScript
+* 🤝  I'm open to collaborating on CIN (IČO), main, secondary employment
 
 <p align="left">
-  <a
-    href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"
-    target="_blank"
-    rel="noreferrer"
-  >
-    <img
-      src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg"
-      width="36"
-      height="36"
-      alt="JavaScript"
-    />
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer" >
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" />
   </a>
-  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"
-    ><img
-      src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg"
-      width="36"
-      height="36"
-      alt="TypeScript"
-  /></a>
+  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" />
+  </a>
   <a
     href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5"
     target="_blank"
@@ -94,21 +86,12 @@ React.js, JavaScript and TypeScript * 🤝  I'm open to collaborating on CIN
       width="32"
       height="32"
   /></a>
-  <a href="https://www.github.com/Phariseess" target="_blank" rel="noreferrer"
-    ><img
-      src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg"
-      width="32"
-      height="32"
-  /></a>
-  <a
-    href="http://www.instagram.com/ondrej_skrland"
-    target="_blank"
-    rel="noreferrer"
-    ><img
-      src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg"
-      width="32"
-      height="32"
-  /></a>
+  <a href="https://www.github.com/Phariseess" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" />
+  </a>
+  <a href="http://www.instagram.com/ondrej_skrland" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" />
+  </a>
 </p>
 
 <a href="https://github.com/Phariseess" align="left"
