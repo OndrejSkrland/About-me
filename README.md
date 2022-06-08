@@ -1,4 +1,4 @@
-Hi 👋 My name is Ondřej Škrland
+Hi 👋 My name is Ondrej Skrland
 ===============================
 
 Junior developer
