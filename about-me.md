@@ -7,7 +7,7 @@ Junior developer
 * 🌍  I'm based in Czech republic
 * ✉️  You can contact me at [ondrejskrland@icloud.com](mailto:ondrejskrland@icloud.com)
 * 🧠  I'm learning React.js, JavaScript and TypeScript
-* 🤝  I'm open to collaborating on CIN (IČO), main, secondary employment
+* 🤝  I'm open to collaborating on CIN (IČO)
 
 Skills
 ----------------
