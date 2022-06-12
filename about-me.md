@@ -5,7 +5,6 @@ Junior developer
 ----------------
 
 * 🌍  I'm based in Czech republic
-* 🖥️  See my portfolio at [GitHub](http://skrland.me)
 * ✉️  You can contact me at [ondrejskrland@icloud.com](mailto:ondrejskrland@icloud.com)
 * 🧠  I'm learning React.js, JavaScript and TypeScript
 * 🤝  I'm open to collaborating on CIN (IČO), main, secondary employment
@@ -93,5 +92,3 @@ Junior developer
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" />
   </a>
 </p>
-<!-- <a href="https://github.com/Phariseess" align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Phariseess&langs_count=10&title_color=ffffff&text_color=ffffff&icon_color=000000&bg_color=181824&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a> -->
