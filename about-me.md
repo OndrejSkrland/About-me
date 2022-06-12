@@ -9,6 +9,8 @@ Junior developer
 * 🧠  I'm learning React.js, JavaScript and TypeScript
 * 🤝  I'm open to collaborating on CIN (IČO), main, secondary employment
 
+Skills
+----------------
 <p align="left">
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer" >
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" />
@@ -69,6 +71,9 @@ Junior developer
       alt="JQuery"
   /></a>
 </p>
+
+Contact
+----------------
 <p align="left">
   <a href="https://discord.com/users/9531" target="_blank" rel="noreferrer"
     ><img
