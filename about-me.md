@@ -1,6 +1,7 @@
+
+
 Hi 👋 My name is Ondrej Skrland
 ===============================
-
 Junior developer
 ----------------
 * 🌍  I'm based in Czech republic
@@ -8,8 +9,7 @@ Junior developer
 * 🧠  I'm learning React.js, JavaScript and TypeScript
 * 🤝  I'm open to collaborating on CIN (IČO)
 
-<hr/>
-I use HTML, CSS (SASS) and JavaScript every day. I often remake old websites where I also deal with jQuery, in which I can orient and partially work with it. In September 2021 I started learning programming, already in February 2022 I found my first job as a coder / programmer for travel agencies. Since then, I have more and more things to improve and learn new skills (React.js, JsRender, jQuery, JavaScript, UX / UI design). At the moment, I'm so passionate about programming that I'm able to stay at work for 12 hours, when needed.
+I use HTML, CSS (SASS) and JavaScript every day. I often remake old websites where I also deal with jQuery, in which I can orient and partially work with it. In September 2021 I started learning programming, already in February 2022 I found my first job as a programmer/coder for travel agencies. Since then, I have more and more things to improve and learn new skills (React.js, JsRender, jQuery, JavaScript, UX/UI design). At the moment, I'm so passionate about programming that I'm able to stay at work for 12 hours, when needed.
 
 Skills
 ----------------
@@ -100,5 +100,12 @@ Contact
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" />
   </a>
 </p>
+
 Projects
 ----------------
+
+> **TipTravel** 
+> ----------------
+>  Reservation form</br>
+>  Summary of order</br>
+>  Graphic design from the client
