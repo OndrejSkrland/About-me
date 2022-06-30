@@ -21,29 +21,11 @@ Skills
 
 Contact
 ----------------
-<p align="left">
-  <a href="https://discord.com/users/9531" target="_blank" rel="noreferrer" title='Discord'
-    ><img
-      src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg"
-      width="32"
-      height="32"
-  /></a>Discord<br/>
-  <a
-    href="https://www.facebook.com/ondrejskrland" title='Facebook'
-    target="_blank"
-    rel="noreferrer"
-    ><img
-      src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg"
-      width="32"
-      height="32"
-  /></a>Facebook<br/>
-  <a href="https://www.github.com/OndrejSkrland" target="_blank" rel="noreferrer" title='GitHub'>
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" />
-  </a>GitHub<br/>
-  <a href="http://www.instagram.com/ondrej_skrland" target="_blank" rel="noreferrer" title='Instagram'>
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" />
-  </a>Instagram<br/>
-</p>
+| <a href="https://discord.com/users/9531" target="_blank" rel="noreferrer" title='Discord'><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="36" height="36" alt="Discord"/> **Discord**</a> 	|
+|---	|
+| <a href="https://www.facebook.com/ondrejskrland" title='Facebook' target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="36" height="36" alt="Facebook"/> **Facebook**</a> 	|
+| <a href="https://www.github.com/OndrejSkrland" target="_blank" rel="noreferrer" title='GitHub'><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="36" height="36" alt='GitHub' /> **GitHub**</a> 	|
+| <a href="http://www.instagram.com/ondrej_skrland" target="_blank" rel="noreferrer" title='Instagram'><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="36" height="36" alt='Instagram'/> **Instagram**</a> 	|
 
 Projects
 ----------------
