@@ -2,7 +2,7 @@
 
 Hi 👋 My name is Ondrej Skrland
 ===============================
-Junior developer
+Developer
 ----------------
 * 🌍  I'm based in Czech republic
 * ✉️  You can contact me at [ondrejskrland@icloud.com](mailto:ondrejskrland@icloud.com)
